@@ -6,3 +6,4 @@ Capricciosa
 
 Primi:
 Bucatini alla matriciana
+Spaghetti alla carbonara
